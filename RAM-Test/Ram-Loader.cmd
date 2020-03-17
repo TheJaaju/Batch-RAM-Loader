@@ -1,9 +1,9 @@
 @echo off
-title RAM stress test [[-PAYLOAD CREATOR-]] [%random%] [%random%]
+title RAM Loader [[-PAYLOAD CREATOR-]] [%random%] [%random%]
 color 0f
+cls
 
 :: MAIN
-cls
 :loop
 type payload.txt >> payload.txt
 PING -n 0.0 0.0.0.0 >NUL
