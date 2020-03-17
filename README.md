@@ -1,5 +1,5 @@
-# Batch-ram-test
-A batch file that creates a text document that when opened will stress your ram
+# Batch-RAM-loader
+A batch file that creates a text document that when opened will stress your ram by putting a load on it
 
 How to use:
 1. Put the files somewhere (I'd use an usb stick or external hard drive)
